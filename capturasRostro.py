@@ -2,7 +2,7 @@ import cv2
 import os
 import imutils
 
-personName = 'Diego'
+personName = 'Diego2'
 dataPath = './DataInput'
 personPath = dataPath + "/" + personName
 
